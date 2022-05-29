@@ -1,6 +1,6 @@
 # Andrey Styskin
 
-My [linkedin] (https://www.linkedin.com/in/andrey-styskin-3025113/)
+My [linkedin](https://www.linkedin.com/in/andrey-styskin-3025113/)
 
 
 **Bold** and _Italic_ and `Code` text
